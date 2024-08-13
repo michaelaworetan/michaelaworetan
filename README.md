@@ -4,7 +4,7 @@ I'm Aworetan Michael, a passionate  backend developer interested in building sca
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript
+- **Languages:** JavaScript, Typescript
 - **Frameworks:** Nodejs
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Tools:** Git, Docker
