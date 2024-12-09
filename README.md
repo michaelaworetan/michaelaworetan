@@ -12,14 +12,14 @@ I'm Aworetan Michael, a passionate  backend developer interested in building sca
 
 ## 💼 Experience
 
-- **African Institute of Technology and Innovation -AITI **  
+- African Institute of Technology and Innovation -AITI 
   *Role:* Backend Developer Intern  
 
 ## 🌱 I’m currently learning
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michael-aworetan-a3711a207/). I'm always open to collaborations and new opportunities! 😊
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michael-aworetan-a3711a207/). I'm always open to collaborations and new opportunities! 
 
 
 <!---
