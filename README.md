@@ -5,7 +5,7 @@ I'm Aworetan Michael, a passionate Software Engineer specializing in building sc
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript  
-- **Frameworks:** Node.js, React (MERN Stack)  
+- **Frameworks:** Node.js, React
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)  
 - **Tools:** Git, Docker  
 - **Other:** RESTful APIs, JSON  
@@ -13,7 +13,6 @@ I'm Aworetan Michael, a passionate Software Engineer specializing in building sc
 ## 🌱 I’m currently learning  
 - Backend Development at the African Institute of Technology and Innovation (AITI)  
 - Cloud Engineering at AltSchool Africa  
-- Advanced MERN Stack techniques  
 
 ## 📫 Let's Connect!  
 
