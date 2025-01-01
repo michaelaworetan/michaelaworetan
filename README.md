@@ -7,8 +7,9 @@ I'm Aworetan Michael, a passionate Software Engineer specializing in building sc
 - **Languages:** JavaScript, TypeScript  
 - **Frameworks:** Node.js, React
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)  
-- **Tools:** Git, Docker  
-- **Other:** RESTful APIs, JSON  
+- **Tools:** Git, Docker, Jest  
+- **Cloud Platforms:** AWS, Render  
+- **Other:** RESTful APIs, GraphQL, JSON 
 
 ## 🌱 I’m currently learning  
 - Backend Development at the African Institute of Technology and Innovation (AITI)  
