@@ -1,19 +1,20 @@
 # Hi there! 👋
 
-I'm Aworetan Michael, a passionate Software Engineer specializing in building scalable and efficient web applications. 🚀 I enjoy solving problems and creating impactful digital solutions using modern web technologies. 
+I'm Aworetan Michael, a passionate Software Engineer who builds scalable and efficient web applications. 🚀 I enjoy solving problems and creating impactful digital solutions using modern web technologies. 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript  
-- **Frameworks:** Node.js, React
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)  
+- **Languages:** JavaScript, TypeScript, Java
+- **Frameworks:** Node.js, React, SpringBoot
+- **Databases:** SQL (MySQL, PostgreSQL, SQL server), NoSQL (MongoDB)  
 - **Tools:** Git, Docker, Jest  
 - **Cloud Platforms:** AWS, Render  
-- **Other:** RESTful APIs, GraphQL, JSON 
+- **Other:** RESTful APIs, GraphQL 
 
 ## 🌱 I’m currently learning  
 - Backend Development at the African Institute of Technology and Innovation (AITI)  
-- Cloud Engineering at AltSchool Africa  
+- Cloud Engineering at AltSchool Africa
+- Qucoon Academy (Java Intern)
 
 ## 📫 Let's Connect!  
 
