@@ -14,7 +14,7 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 ## 🌱 I’m currently learning  
 - Backend Development at the African Institute of Technology and Innovation (AITI)  
 - Cloud Engineering at AltSchool Africa
-- Qucoon Academy (Intern)
+- Intern at Qucoon
 
 ## 📫 Let's Connect!  
 
