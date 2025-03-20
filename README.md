@@ -8,7 +8,7 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 - **Frameworks:** Node.js, React, SpringBoot
 - **Databases:** SQL (MySQL, PostgreSQL, SQL server), NoSQL (MongoDB)  
 - **Tools:** Git, Docker, Jest  
-- **Cloud Platforms:** AWS, Render  
+- **Cloud Platforms:** AWS
 - **Other:** RESTful APIs
 
 ## 🌱 I’m currently learning  
