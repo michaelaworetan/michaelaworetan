@@ -12,9 +12,7 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 - **Other:** RESTful APIs
 
 ## 🌱 I’m currently learning  
-- Backend Development at the African Institute of Technology and Innovation (AITI)  
-- Cloud Engineering at AltSchool Africa
-- Intern at Qucoon
+- Software developer at [NIBSS](https://nibss-plc.com.ng/)
 
 ## 📫 Let's Connect!  
 
