@@ -11,7 +11,7 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 - **Cloud Platforms:** AWS
 - **Other:** RESTful APIs, Microservices, Core-switching
 
-## 💼 Currently learning  
+## 💼 Currently Working
 - Software Engineer at [NIBSS](https://nibss-plc.com.ng/)
 
 ## 📫 Let's Connect!  
