@@ -5,14 +5,14 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks:** Node.js, React, SpringBoot
+- **Frameworks:** Node.js, SpringBoot
 - **Databases:** SQL (MySQL, PostgreSQL, SQL server), NoSQL (MongoDB)  
-- **Tools:** Git, Docker, Jest  
+- **Tools:** Git, Docker, Jest, Kafka
 - **Cloud Platforms:** AWS
-- **Other:** RESTful APIs
+- **Other:** RESTful APIs, Microservices, Core-switching
 
-## 🌱 I’m currently learning  
-- Software developer at [NIBSS](https://nibss-plc.com.ng/)
+## 💼 Currently learning  
+- Software Engineer at [NIBSS](https://nibss-plc.com.ng/)
 
 ## 📫 Let's Connect!  
 
