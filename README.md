@@ -4,7 +4,7 @@ I'm Aworetan Michael, a passionate Software Engineer who builds scalable and eff
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, JavaScript, TypeScript,
+- **Languages:** Java, JavaScript, TypeScript
 - **Frameworks:** SpringBoot, JPOS, Node.js 
 - **Databases:** SQL (MySQL, PostgreSQL, SQL server), NoSQL (MongoDB)  
 - **Tools:** Git, kafka, Docker
